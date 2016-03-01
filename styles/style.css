@@ -82,4 +82,5 @@ ul {
 
 .student-info__social-item {
   display: inline-block;
+  text-align: center;
 }
