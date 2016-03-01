@@ -49,8 +49,9 @@ ul {
 
 .content {
   padding: 0 1rem;
-  max-width: 1040px
-  margin: auto
+  max-width: 1040px;
+  margin: auto;
+  text-align: center;
 }
 
 .student-info {
@@ -75,7 +76,7 @@ ul {
 }
 
 .student-info__social-list {
-  margin: auto
+  margin: auto;
   text-align: center;
 }
 
