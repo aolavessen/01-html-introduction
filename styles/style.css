@@ -32,14 +32,14 @@ ul {
 }
 
 .top-nav__item {
-  float: right;
+  float: right;;
   font-size: 1.6rem;
   line-height: 3.2rem;
   margin: 0 1rem;
 }
 
 .top-nav__item--brand {
-  float: right;
+  float: left;
 }
 
 .top-nav {
@@ -49,8 +49,9 @@ ul {
 
 .content {
   padding: 0 1rem;
-  max-width: 1040px
-  margin: auto
+  max-width: 1040px;
+  margin: auto;
+  text-align: center;
 }
 
 .student-info {
@@ -75,10 +76,11 @@ ul {
 }
 
 .student-info__social-list {
-  margin: auto
+  margin: auto;
   text-align: center;
 }
 
 .student-info__social-item {
   display: inline-block;
+  text-align: center;
 }
